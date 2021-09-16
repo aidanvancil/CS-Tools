@@ -1,0 +1,59 @@
+INTERMEDIATE RESOURCES
+Intermediate usage of certain utilities, tools, cheat sheets, and resources to help advance your cybersecurity skills.
+Steganography
+https://github.com/DominicBreuker/stego-toolkit
+Password Cracking
+https://notsosecure.com/one-rule-to-rule-them-all/
+https://ophcrack.sourceforge.io/
+https://ophcrack.sourceforge.io/tables.php
+https://www.hackingarticles.in/wordlists-for-pentester/
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Usernames/top-usernames-shortlist.txt
+Miscellaneous (Be Ethical & Moral)
+https://github.com/aydinnyunus/Keylogger
+https://blog.compass-security.com/wp-content/uploads/2019/10/hacking_tools_cheat_sheet_v1.0.pdf
+https://www.aircrack-ng.org/
+https://github.com/kitabisa/mubeng
+https://xploitlab.com/dnsstager-hide-payload-in-malicious-dns/
+Securing Networks / Servers (Linux & macOS & Windows)
+https://github.com/decalage2/awesome-security-hardening
+Cyber Defense
+https://github.com/fabacab/awesome-cybersecurity-blueteam
+'Awesome' Guides (Infinite Resources:)
+https://github.com/caesar0301/awesome-pcaptools (Network Traffic Tracing)
+https://github.com/paralax/awesome-honeypots (Frontend Traps)
+https://github.com/Friz-zy/awesome-linux-containers (Libraries, Softwares, Frameworks)
+https://github.com/enaqx/awesome-pentest (Pentest)
+https://github.com/meirwah/awesome-incident-response (Forensics)
+https://github.com/infoslack/awesome-web-hacking (Web Exploit)
+https://github.com/hslatman/awesome-threat-intelligence (Threat Awareness / Information Gathering)
+https://github.com/coreb1t/awesome-pentest-cheat-sheets (Pentest Cheat Sheets)
+https://github.com/kai5263499/container-security-awesome (Container Securities)
+https://github.com/pFarb/awesome-crypto-papers (Crypto Techniques)
+Cryptography
+http://rumkin.com/tools/
+SQL Injects
+https://sqlitebrowser.org/
+https://www.acunetix.com/wp-content/uploads/2021/03/sql-injection-cheat-sheet.pdf (View Additional Resources Appendix @ Bottom of Page)
+https://portswigger.net/web-security/sql-injection/cheat-sheet
+
+In order to determine what DB language your query is, try to create a DB error using string concatenation. If the inject is blind and error handling is enabled from a DB's end it is worth considering the website hosting provider, framework, or what language the web application is written in. Usually: asp.NET = MSSQL, PHP = MySQL. String concatenation, if the inject is blind and no data is returned, can tell us what language. MSSQL and DB2 use + for string concatenation, whereas Oracle PL/SQL and PostgreSQL use ||.
+
+https://github.com/payloadbox/sql-injection-payload-list
+Cloud Computing
+https://aws.amazon.com/
+https://azure.microsoft.com/en-us/
+https://cloud.google.com/
+Requests & Posts
+https://docs.python-requests.org/en/master/user/quickstart/
+https://insomnia.rest/
+https://apipheny.io/post-request/
+https://apis.support.brightcove.com/general/use-insomnia-api-requests.html
+Hex Editors
+https://www.sweetscape.com/010editor/
+https://atom.io/ (cool looking)
+https://www.sublimetext.com/
+https://notepad-plus-plus.org/
+Enumeration & Exploitation
+https://github.com/rocky/python-uncompyle6
+https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
+https://hkh4cks.com/blog/2018/01/22/common-enumeration-tools/
