@@ -1,0 +1,62 @@
+BEGINNER RESOURCES
+Basic utilities, tools, and resources to help advance your cybersecurity skills.
+Binaries
+Ghirda- https://ghidra-sre.org/
+IDA- https://hex-rays.com/ida-free/
+Dockers
+https://www.docker.com/resources/what-container
+Assembly (Introduction)
+https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm
+gdb- http://www.gdbtutorial.com/
+Public-Key Encryption
+http://intronetworks.cs.luc.edu/current2/html/publickey.html
+Powershell
+https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1
+Encryption Basics
+https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide/toolkits/encryption-101
+Wireshark (Traffic Analysis)
+https://www.lifewire.com/wireshark-tutorial-4143298
+Kali Linux Cheat Sheet
+https://i.redd.it/9bu827i9tr751.jpg
+https://www.cyberpratibha.com/blog/kali-linux-commands/
+Web Application
+OWASP ZAP- https://www.zaproxy.org/pdf/ZAPGettingStartedGuide-2.9.pdf
+domain searcher- https://whois.domaintools.com/
+Burp Suite- https://portswigger.net/burp
+Linux Basic Commands
+https://www.man7.org/linux/man-pages/index.html
+
+find, grep, cat, netcat, whoami, passwd, history, lscpu, ps, kill (id), cksum, cmp, env, nano, clear, iostat, pstree
+Linux Basic Commands (Parsing)
+sed, awk, wc
+Linux Basic Commands (File Manipulation)
+head, tail, cat, grep, chmod, logger
+Linux Basic Commands (Packet Capture / Traffic / Scanning)
+iptable, netstat, telnet, tcpdump, hexdump, nmap, ping, traceroute, ss, ssh, dig, ifconfig
+Forensics
+Volatility- https://www.howtoforge.com/tutorial/how-to-install-and-use-volatility-memory-forensic-tool/
+WinHex- http://www.winhex.com/winhex/
+Autopsy- https://www.autopsy.com/
+FTK Imager- https://www.exterro.com/ftk-imager
+DD- https://linuxhint.com/dd%C2%AC_command_forensics/
+microcorruption- https://microcorruption.com/login#hideheaders
+Regex (Parsing / Finding)
+https://github.com/ziishaned/learn-regex
+https://regex101.com/r/dmRygT/1
+Decoding
+https://aroktyoe.wixsite.com/decipher/online-decoding-resources
+Password Cracking
+Hashcat- https://hashcat.net/wiki/doku.php?id=example_hashes
+Hashcat v2- https://hashcat.net/wiki/
+John The Ripper- https://www.varonis.com/blog/john-the-ripper/
+https://www.openwall.com/john/
+Steganography
+Stego, Steghide, stegsolver, pngcheck, stegpy, stegcracker
+
+DIIT- http://diit.sourceforge.net/
+binvis- https://binvis.io/#/
+Open Source Intelligence
+Internet Archive- https://archive.org/index.php
+https://yandex.com/images/
+google maps- https://www.google.com/maps
+exiftool (metadata)- https://exiftool.org/
